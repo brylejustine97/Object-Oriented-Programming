@@ -11,6 +11,13 @@
 ## 🌹 Address
 Sapalibutad, Angeles Pampanga
 
+## Programming Language and Data Bases i know.
+- [![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)](https://example.com/c)
+- [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](https://example.com/java)
+- [![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)](https://example.com/python)
+- [![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?logo=sqlite&logoColor=white)](https://example.com/sql)
+
+
 ## 🌐 Socials:
 ### Follow and contact me here!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brylejustinnn) @brylejustinnn<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jreyes24-0144@cca.edu.ph) jreyes24-0144@cca.edu.ph<br> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/brylejustinnn) Bryle Justine Reyes
