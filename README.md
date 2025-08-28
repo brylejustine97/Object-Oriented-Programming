@@ -4,7 +4,8 @@
 # 💫 About Me:
 ## 🔥 Hi! I'm Justine Bryle R. Reyes.
 
-😈 You can call me Bryle or JB in short.<br> ☕ Just a Chill guy that loves coffee even though highly acidic.<br> 🎮 Also a Person that loves to play offline single player games, cause i want a peacefull life.<br>
+😈 You can call me Bryle or JB in short.<br> ☕ Just a Chill guy that loves coffee even though highly acidic.<br> 🎮 Also a Person that loves to play offline single player games, cause i want a peacefull life.<br> - [![God of War](https://img.shields.io/badge/God_of_War-%23a50000.svg?logo=PlayStation&logoColor=white)](https://example.com/godofwar)
+<br> - [![Call of Duty](https://img.shields.io/badge/Call_of_Duty-%23000000.svg?logo=Xbox&logoColor=white)](https://example.com/callofduty)<br> - [![GTA](https://img.shields.io/badge/GTA-%23333333.svg?logo=Rockstar%20Games&logoColor=white)](https://example.com/gta)<br>
 🎧 But at the same time i always blast my music especially ROCK!
 
 ## 🌹 Address
