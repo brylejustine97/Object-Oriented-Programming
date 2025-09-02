@@ -1,7 +1,8 @@
-# <p align="center">💻 Object Oriented Programming.</p>
+# <p align="center">Object Oriented Programming.</p>
 ## <p align="center">Bachelor of Science in Computer Science</p>
 
 # 🔱 Hi! I'm Justine Bryle R. Reyes.
+<img src="1000008565.jpg" alt="image" width="200" height="200">
 
 ## 🌹 Address
 Sapalibutad, Angeles Pampanga
@@ -19,8 +20,8 @@ Sapalibutad, Angeles Pampanga
 
 <!-- D. Project Links -->
 ## 🔗 Project Links
-- [Midterm Paired Task 1](https://docs.google.com/document/d/1Jd0xWj-m4Kb5EF4e5aLQQOaqx9mK9glwV0JdqHQYs3w/edit?usp=sharing)
-- [Midterm Lab Task 1 Getting started with Python](https://docs.google.com/document/d/1hW_0oicJA4hCQd9o8sATPSFSHx1pUQFY7nvpMQE_2Lw/edit?usp=sharing)
+- 💻 [Midterm Paired Task 1](https://docs.google.com/document/d/1Jd0xWj-m4Kb5EF4e5aLQQOaqx9mK9glwV0JdqHQYs3w/edit?usp=sharing)
+- 💻 [Midterm Lab Task 1 Getting started with Python](https://docs.google.com/document/d/1hW_0oicJA4hCQd9o8sATPSFSHx1pUQFY7nvpMQE_2Lw/edit?usp=sharing)
 
 
 ## 🌐 Socials:
