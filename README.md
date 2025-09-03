@@ -1,6 +1,6 @@
 ![Header](1000010686.webp)
 
-# <h1 align="left">🔱 Hi! I'm Justine Bryle R. Reyes.</h2>
+# 🔱 Hi! I'm Justine Bryle R. Reyes
 
 <img src="1000008565.jpg" alt="image" width="200" height="200">
 
